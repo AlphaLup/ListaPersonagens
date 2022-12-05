@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="itemWidthMini">120dp</dimen>
+    <dimen name="itemHeigthMini">150dp</dimen>
+    <dimen name="itemWidthInfo">220dp</dimen>
+    <dimen name="itemHeigthInfo">250dp</dimen>
+</resources>
